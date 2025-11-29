@@ -20,7 +20,7 @@ Official PyTorch implementation of the NeurIPS 2025 paper "Seeing What Matters: 
 
 ## Demo
 
-In the demo folder you can find the code to launch a demo of the method. More details can be found in the corresponding README file.
+You can find the code to run the method’s demo in the demo folder. For more details, check the accompanying README file.
 
 ## License
 
