@@ -44,9 +44,9 @@ In this work, first, we study different generative architectures, searching and 
 
 ## Bibtex
 
- ```
+```
 @InProceedings{corvi2025seeing,
-    title = {{Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation}},
+    title = {Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation},
     author = {Riccardo Corvi and Davide Cozzolino and Ekta Prashnani and Shalini De Mello and Koki Nagano and Luisa Verdoliva},
     booktitle = {The Thirty-ninth Annual Conference on Neural Information Processing Systems},
     year = {2025},
