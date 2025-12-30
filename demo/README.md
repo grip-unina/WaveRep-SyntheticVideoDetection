@@ -25,6 +25,13 @@ Example of using with the model trained with a single generators:
 python main_avideo.py --video_input "<VIDEO_PATH>" --csv_output '<CSV_OUTPUT_FILE>' --weights './weights/weights_dinov2_G1.ckpt'
 ```
 
+Example for computing power spectra:
+
+```
+python main_power_spectrum.py --vid_dir "<FOLDER_VIDEOS_PATH>" --npy_output '<NPY_OUTPUT_FILE>'
+```
+
+
 In order to use the scripts the follwing packages should be installed:
 
 	* torch>=2.0.1
