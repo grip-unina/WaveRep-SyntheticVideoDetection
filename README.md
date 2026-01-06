@@ -8,6 +8,7 @@ Official PyTorch implementation of the NeurIPS 2025 paper "Seeing What Matters: 
 
 
 ## News
+* 2026-01-06: release of the code to compute the power spectra and the test set.
 * 2025-11-28: demo release.
 
 ## Overview
@@ -21,6 +22,14 @@ Official PyTorch implementation of the NeurIPS 2025 paper "Seeing What Matters: 
 ## Demo
 
 You can find the code to run the method’s demo in the demo folder. For more details, check the accompanying README file.
+
+## Power Spectra
+
+You can find the code to compute the power spectra in the demo folder. For more details, check the accompanying README file. 
+
+## Test Set
+
+You can find the code to download the test set in the dataset folder. For more details, check the accompanying README file.
 
 ## License
 
