@@ -8,6 +8,7 @@ Official PyTorch implementation of the NeurIPS 2025 paper "Seeing What Matters: 
 
 
 ## News
+* 2026-04-18: release of the augmentation code.
 * 2026-01-06: release of the code to compute the power spectra and the test set.
 * 2025-11-28: demo release.
 
@@ -30,6 +31,10 @@ You can find the code to compute the power spectra in the demo folder. For more 
 ## Test Set
 
 You can find the code to download the test set in the dataset folder. For more details, check the accompanying README file.
+
+## Augmentation Code
+
+You can find the code of the augmentation in the augmentation folder.
 
 ## License
 
